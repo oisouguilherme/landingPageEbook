@@ -11,7 +11,7 @@ function SocialFooter(){
                 <img src={LogoFooter} alt="" />
                 <div className='social-media'>
                     <a href="https://www.instagram.com/oulissesalmeida/" target={'_blank'}><img src={Instagran} alt="link para instagram do Ulisses" /> oulissesalmeida</a>
-                    <a href="https://api.whatsapp.com/send?phone=5538998724420" target={'_blank'}><img src={Whatsapp} alt="Meu Whatsapp para contato" />(38) 9999-9999</a>
+                    <a href="https://api.whatsapp.com/send?phone=5538998724420" target={'_blank'}><img src={Whatsapp} alt="Meu Whatsapp para contato" />(38) 99872-4420</a>
                     <a href="" target={'_blank'}><img src={Email} alt="email" />suportevqc@gmail.com</a>
                 </div>
             </div>
