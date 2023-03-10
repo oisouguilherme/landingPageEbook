@@ -16,10 +16,10 @@ function MainFooter (){
           <div className='txt_aprender'>
             <h2>O que você vai aprender:</h2>
             <div className='buttons_aprender'>
-              <VaiAprender txt="Técnicas de vendas que levam pessoas até WhatsApp" img={cashcoin} />
+              <VaiAprender txt="Técnicas de vendas que levam pessoas até o WhatsApp" img={cashcoin} />
               <VaiAprender txt="Funil de vendas que integrem Instagram e WhatsApp" img={funnel}/>
               <VaiAprender txt="As principais vantagens do WhatsApp Business" img={creditBack}/>
-              <VaiAprender txt="As principais vantagens do WhatsApp Business" img={wallet}/>
+              <VaiAprender txt="Como usar influencer's em suas campanhas de vendas" img={wallet}/>
               <VaiAprender txt="Como fazer campanhas que levem pessoas ao WhatsApp" img={personAdd}/>
               <VaiAprender txt="Os passos para criar um script de vendas" img={coin}/>
             </div>
