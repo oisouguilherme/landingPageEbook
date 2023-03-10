@@ -7,7 +7,7 @@ function MainHeader() {
     <div className='container'>
       <main className='main'>
         <div className='main_txt'>
-          <strong>FREE EBOOK</strong>
+          <strong>EBOOK</strong>
           <h1>Dobre Suas Vendas Pelo WhatsApp</h1>
           <p>Aprenda a vendar mais usando o <strong>WhatsApp</strong>  e aumente o seu lucro.</p>
           <div className='preco'>
