@@ -1,0 +1,25 @@
+.aprender{
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  width: 200px;
+}
+.aprender p {
+  color: #f4f1ed;
+  font-size: 18px;
+}
+
+.aprender button {
+  background-color: #f4f1ed;;
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  border: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.aprender button img {
+  margin: 0;
+}

@@ -1,6 +1,7 @@
 .container {
   background-color: #f4f1ed;
-  padding: 20px 0px 20px 150px;
+  padding: 50px 150px;
+  padding-bottom: 100px;
 }
 
 .header{
@@ -15,11 +16,12 @@
 
 .main {
   display: flex;
+  justify-content: space-between;
 }
 .main_txt{
   display: flex;
   flex-direction: column;
-  width: 45%;
+  width: 50%;
 }
 .main_txt strong{
   color: black;
@@ -34,29 +36,49 @@
 
 .main_txt p{
   font-size: 24px;
-  margin-bottom: 40px;
+  margin-bottom: 60px;
 }
 
-.main_txt button{
+.main_txt a{
   width: 250px;
   padding: 20px;
   border-radius: 15px;
-  border: none;
   background-color: #ed2d50;
   color:white;
+
   font-weight: bold;
+  text-align: center;
   font-size: 20px;
+  text-decoration: none;
+
   cursor: pointer;
   margin: 0 auto;
 }
 
-.main_txt button:hover{
-  background-color: #df1c40;
+.main_txt a:hover{
+  background-color: #f31a42;
 }
 
 main img {
-  width:55%;
-  margin-right: 0px;
+  width:25%;
+  cursor: pointer;
+}
+
+main img:hover {
+  transform: scale(1.1);
+}
+
+.preco {
+  display: flex;
+  gap: 10px;
+  cursor: pointer;
+}
+
+.preco p {
+  margin: 0;
+}
+.preco p:hover {
+  color: #ed2d50;
 }
 
 @media (max-width: 1200px)
@@ -67,14 +89,44 @@ main img {
   .main {
     display: flex;
     flex-direction: column;
-    gap: 25px;
+    align-items: center;
+    
   }
   .main_txt{
     width: 100%;
     display: flex;
+    text-align: center;
     align-items: center;
   }
   main img{
-    width: 100%;
+    width: 40%;
+    padding: 70px 0;
   }
+}
+@media (max-width: 800px)
+{
+  main img{
+    width: 40%;
+  }
+  .preco {
+    flex-direction: column;
+    gap: 32px;
+  }
+}
+@media (max-width: 530px)
+{
+  .main_txt h1 {
+    font-size: 46px;
+  }
+  .container {
+    padding: 20px;
+  }
+  .main_txt button{
+    margin: 0;
+  }
+  main img{
+    width: 70%;
+    
+  }
+  
 }
