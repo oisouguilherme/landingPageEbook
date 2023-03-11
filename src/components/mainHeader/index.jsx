@@ -8,7 +8,7 @@ function MainHeader() {
         <div className='main_txt'>
           <strong>EBOOK</strong>
           <h1>Dobre Suas Vendas Pelo WhatsApp</h1>
-          <p>Aprenda a vendar mais usando o <strong>WhatsApp</strong>  e aumente o seu lucro.</p>
+          <p>Aprenda a vender mais usando o <strong>WhatsApp</strong>  e aumente o seu lucro.</p>
           <div className='preco'>
             <div className='valores'>
               <p> <strong>De:</strong> <s>R$ 70,00</s></ p>
