@@ -1,6 +1,5 @@
 import style from './style.css'
-import logo from '../../assets/logo.png'
-import livro2 from '../../assets/livro2.png'
+import livro2 from '../../assets/livro2.jpg'
 
 function MainHeader() {
   return(

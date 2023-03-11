@@ -1,6 +1,6 @@
 
 import style from './style.css'
-import livro2 from '../../assets/livro3.png'
+import livro2 from '../../assets/livro1.png'
 import VaiAprender from './VaiAprender'
 import funnel from '../../assets/funnel.svg'
 import cashcoin from '../../assets/cash-coin.svg'

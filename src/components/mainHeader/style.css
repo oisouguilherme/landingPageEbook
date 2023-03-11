@@ -21,7 +21,7 @@
 .main_txt h1 {
   font-size: 56px;
   margin-bottom: 38px;
-  color:#ed2d50;
+  color:#00b142;
 }
 
 .main_txt p{
@@ -33,7 +33,7 @@
   width: 250px;
   padding: 20px;
   border-radius: 15px;
-  background-color: #ed2d50;
+  background-color: #00b142;
   color:white;
 
   font-weight: bold;
@@ -46,12 +46,14 @@
 }
 
 .main_txt a:hover{
-  background-color: #f31a42;
+  background-color: #0d8d3c;
 }
 
 main img {
-  width:25%;
+  width:30%;
+  height: 30%;
   cursor: pointer;
+  margin: auto 0;
 }
 
 main img:hover {
@@ -68,7 +70,7 @@ main img:hover {
   margin: 0;
 }
 .preco p:hover {
-  color: #ed2d50;
+  color: #0d8d3c;
 }
 
 @media (max-width: 1200px)
