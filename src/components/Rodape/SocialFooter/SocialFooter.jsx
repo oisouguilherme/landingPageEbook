@@ -1,8 +1,4 @@
 import './SocialFooter.css'
-import LogoFooter from '../../../assets/logo.png'
-import Instagran from '../../../assets/instagram.svg'
-import Whatsapp from '../../../assets/whatsapp.svg'
-import Email from '../../../assets/envelope.svg'
 
 function SocialFooter(){
     return(
