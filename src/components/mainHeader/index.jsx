@@ -11,8 +11,8 @@ function MainHeader() {
           <p>Aprenda a vender mais usando o <strong>WhatsApp</strong>  e aumente o seu lucro.</p>
           <div className='preco'>
             <div className='valores'>
-              <p> <strong>De:</strong> <s>R$ 70,00</s></ p>
-              <p><strong>Por:</strong> R$ 47,00</p>
+              <p> <strong>De:</strong> <s>R$ 69,99</s></ p>
+              <p><strong>Por:</strong> R$ 19,90</p>
             </div>
             <a href='https://pay.kiwify.com.br/FSZfRi1' target={'_blank'}>Compre aqui</a>
 
