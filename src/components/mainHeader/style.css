@@ -1,7 +1,8 @@
 .container {
-  background-color: #f4f1ed;
+  background-color: black;
   padding: 50px 150px;
   padding-bottom: 100px;
+  color: white;
 }
 
 .main {
@@ -14,7 +15,7 @@
   width: 50%;
 }
 .main_txt strong{
-  color: black;
+  color: white;
   margin-top: 70px;
   font-size: 24px;
 }
@@ -23,18 +24,19 @@
   margin-bottom: 38px;
   color:#00b142;
 }
-
 .main_txt p{
   font-size: 24px;
   margin-bottom: 60px;
 }
 
 .main_txt a{
-  width: 250px;
+  width: 100%;
   padding: 20px;
   border-radius: 15px;
   background-color: #00b142;
   color:white;
+
+  box-shadow: #0ae75b 0px 0px 25px;
 
   font-weight: bold;
   text-align: center;
@@ -46,7 +48,8 @@
 }
 
 .main_txt a:hover{
-  background-color: #0d8d3c;
+  background-color: #0ae75b;
+  transform: scale(1.1);
 }
 
 main img {
