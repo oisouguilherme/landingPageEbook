@@ -1,1 +1,1 @@
-![image](https://user-images.githubusercontent.com/108905023/231495666-317de902-341f-4a9d-b2e3-8451cd63d92b.png)
+![dobre-suas-vendas-ebook ulissesalmeida com br_](https://user-images.githubusercontent.com/108905023/231496753-088e04da-b603-418f-8955-2a19b75d7e3c.png)
