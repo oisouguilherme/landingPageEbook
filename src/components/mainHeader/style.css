@@ -45,6 +45,7 @@
 
   cursor: pointer;
   margin: 0 auto;
+  transition-duration: 300ms;
 }
 
 .main_txt a:hover{
@@ -59,9 +60,6 @@ main img {
   margin: auto 0;
 }
 
-main img:hover {
-  transform: scale(1.1);
-}
 
 .preco {
   display: flex;
@@ -69,9 +67,6 @@ main img:hover {
   cursor: pointer;
 }
 
-.preco p {
-  margin: 0;
-}
 .preco p:hover {
   color: #0d8d3c;
 }

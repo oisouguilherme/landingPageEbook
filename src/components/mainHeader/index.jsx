@@ -11,7 +11,6 @@ function MainHeader() {
           <p>Aprenda a vender mais usando o <strong>WhatsApp</strong>  e aumente o seu lucro.</p>
           <div className='preco'>
             <a href='http://eepurl.com/ioE1DE' target={'_blank'}>BAIXAR AGORA</a>
-
           </div>
         </div>
  

@@ -13,10 +13,9 @@
 .main_footer img{
   width: 35%;
   margin-top: 110px;
+  cursor: pointer;
 }
-.main_footer img:hover{
-  transform: scale(1.1);
-}
+
 .txt_aprender{
   width: 50%;
   margin-top: 64px;
